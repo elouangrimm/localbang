@@ -1,6 +1,6 @@
 // This file was (mostly) ripped from https://duckduckgo.com/bang.js
 
-export const bangs = [
+const bangs = [
   {
     c: "AI",
     d: "www.t3.chat",
